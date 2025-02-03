@@ -48,3 +48,13 @@ This repository contains a project for Weather Prediction using machine learning
 - Modify hyperparameters and experiment as needed.
 
 - Visualize predictions and analyze results.
+
+## Repository Structure
+
+```Bash
+weather-prediction/
+├── Weather-prediction.ipynb  # Main Google Colab Notebook
+├── requirements.txt          # List of dependencies
+├── README.md                 # Project documentation (this file)
+└── data/                     # Dataset folder (not included)
+```
