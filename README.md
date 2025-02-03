@@ -29,9 +29,9 @@ This repository contains a project for Weather Prediction using machine learning
    ```
 2. Open the provided .ipynb file in Google Colab:
 
-- Upload the notebook to your Google Drive.
+  - Upload the notebook to your Google Drive.
 
-- Open the notebook via Google Colab.
+  - Open the notebook via Google Colab.
 
 3. Install the required dependencies by running the following command in a Colab cell:
 
