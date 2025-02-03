@@ -27,3 +27,15 @@ This repository contains a project for Weather Prediction using machine learning
    git clone https://github.com/yourusername/weather- 
    prediction.git
    ```
+2. Open the provided .ipynb file in Google Colab:
+
+- Upload the notebook to your Google Drive.
+
+- Open the notebook via Google Colab.
+
+3. Install the required dependencies by running the following command in a Colab cell:
+
+```bash
+!pip install -r requirements.txt
+```
+4. Upload or link your dataset in Colab and ensure it follows the expected format.
