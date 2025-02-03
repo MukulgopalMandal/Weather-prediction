@@ -11,3 +11,12 @@ This repository contains a project for Weather Prediction using machine learning
 - Model evaluation and performance analysis.
 
 - Visualization of predicted vs. actual weather data.
+
+## Getting Started
+### Prerequisites
+
+- A Google account to access Google Colab.
+
+- Basic knowledge of Python and machine learning.
+
+### Setup Instructions
