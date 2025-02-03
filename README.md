@@ -63,3 +63,24 @@ Contributions are welcome! Please follow these steps:
 
  - Fork this repository.
  - Create a new branch:
+```Bash
+git checkout -b feature-name
+```
+ - Commit your changes:
+```Bash
+git commit -m "Add new feature"
+```
+ -Push to the branch:
+```Bash
+git push origin feature-name
+```
+ - Submit a pull request.
+## License
+
+This project is licensed under the MIT License - see the `LICENSE` file for details.
+
+## Acknowledgments
+
+- The datasets used for training.
+
+- Open-source libraries and tutorials.
