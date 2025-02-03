@@ -58,3 +58,8 @@ weather-prediction/
 ├── README.md                 # Project documentation (this file)
 └── data/                     # Dataset folder (not included)
 ```
+## Contributing
+Contributions are welcome! Please follow these steps:
+
+ - Fork this repository.
+ - Create a new branch:
