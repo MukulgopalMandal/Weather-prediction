@@ -20,3 +20,10 @@ This repository contains a project for Weather Prediction using machine learning
 - Basic knowledge of Python and machine learning.
 
 ### Setup Instructions
+
+1. Clone this repository to your local system:
+
+```Bash
+   git clone https://github.com/yourusername/weather- 
+   prediction.git
+   ```
