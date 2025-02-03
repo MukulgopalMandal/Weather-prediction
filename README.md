@@ -39,3 +39,12 @@ This repository contains a project for Weather Prediction using machine learning
 !pip install -r requirements.txt
 ```
 4. Upload or link your dataset in Colab and ensure it follows the expected format.
+## Usage
+
+- Open the notebook in Google Colab.
+
+- Follow the step-by-step instructions provided in the notebook.
+
+- Modify hyperparameters and experiment as needed.
+
+- Visualize predictions and analyze results.
